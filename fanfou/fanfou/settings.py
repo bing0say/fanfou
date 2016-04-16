@@ -85,8 +85,8 @@ MONGO_DATABASE = 'fanfou'
 #HTTPCACHE_DIR='httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES=[]
 #HTTPCACHE_STORAGE='scrapy.extensions.httpcache.FilesystemCacheStorage'
-PASSNAME ='bingosay@icloud.com'
-PASSWORD ='a123456789'
+PASSNAME =''
+PASSWORD =''
 
 DUPEFILTER_CLASS = 'fanfou.spiders.Fanfou.NullDupeFilter'
 BOT_NAME = 'fanfou'
